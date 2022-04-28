@@ -1,0 +1,27 @@
+[
+    {
+      "id": 0,
+      "name": "Fire Egg",
+      "picture": "images/egg.png",
+      "age": 0,
+      "breed": "Random Fire Monster",
+      "power": "0.0001 - 0.1000"
+    },
+    {
+      "id": 1,
+      "name": "Plant Egg",
+      "picture": "images/egg.png",
+      "age": 0,
+      "breed": "Random Plant Monster",
+      "power": "0.0001 - 0.1000"
+    },
+    {
+      "id": 2,
+      "name": "Water Egg",
+      "picture": "images/egg.png",
+      "age": 0,
+      "breed": "Random Water Monster",
+      "power": "0.0001 - 0.1000"
+    }
+  ]
+  
